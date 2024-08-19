@@ -1,7 +1,7 @@
 ## Hello there 👋
-Currently studying at SH Thevara
-Interested in anything and everything related to Data Science
-Wanna hear a joke? Knock knock! To be continued...
+-> Currently studying at SH Thevara
+-> Interested in anything and everything related to Data Science
+-> Wanna hear a joke? Knock knock! To be continued...
 
 
 <!--
